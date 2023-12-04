@@ -37,7 +37,7 @@ Train the Siamese model:
 In bash
 Copy code
 python train.py --dataset path_to_dataset --epochs num_epochs
-Perform face recognition using trained model:
+Perform face recognition using trained model: 
 
 In bash
 Copy code
