@@ -5,10 +5,15 @@ This repository contains the implementation of One-Shot & Few-Shot Face Recognit
 1.Introduction
 
 2.Features
+
 3.Setup
+
 4.Usage
+
 5.Project Report
+
 6.Contributing
+
 7.License
 
 # Introduction
