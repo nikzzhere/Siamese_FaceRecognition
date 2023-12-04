@@ -6,15 +6,11 @@ This repository contains the implementation of One-Shot & Few-Shot Face Recognit
 
 2.Features
 
-3.Setup
+3.How to Run
 
-4.Usage
+4.Project Report
 
-5.Project Report
-
-6.Contributing
-
-7.License
+5.Contributors
 
 # Introduction
 Face recognition in scenarios where limited training data is available is a challenging task. This project explores the use of Siamese Neural Networks to perform One-Shot & Few-Shot Face Recognition. The Siamese architecture enables learning embeddings for faces and facilitates recognition, even when there are minimal samples available for a particular individual.
