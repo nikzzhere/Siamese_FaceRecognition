@@ -42,7 +42,7 @@ Perform face recognition using trained model:
 In bash
 Copy code
 python recognize.py --image path_to_test_image --model path_to_trained_model
-Project Report
+# Project Report
 For a detailed overview of methodologies, experimental setup, results, and analysis, please refer to the Project Report.
 
 # Contributing
@@ -54,7 +54,5 @@ Make your changes.
 Commit your changes (git commit -m 'Add your_feature').
 Push to the branch (git push origin feature/your_feature).
 Create a pull request.
-License
-This project is licensed under the MIT License.
 
 Replace link_to_project_image, link_to_project_report, your_username, and other placeholders with the actual links and information relevant to your project. This README provides an outline to guide users through your repository and its functionalities.
