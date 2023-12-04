@@ -28,23 +28,29 @@ Download the ipynb file and run in your respective python environment.
 o Our model is mainly based of self developed siamese
 network and in our project we maintained same base model
 but tried to check various loss functions and metrices.
+
 o In first case we used triplets to form loss and the loss was
 the difference in positive and negative distance of images.It
 gave around 92 to 93 percent training accuracy and 86 to 87
 percent validation accuracy.
+
 o In second case we used quadraplets where we took mean of
 distance between positive images as one input for loss function
 and took loss as difference between positive and negative
 distance. It gave around 85 to 86 percent training accuracy
 and 80 percent for validation accuracy.
+
 o In third case we took loss function as diference of squares
 and that was pretty low and was around 65 percent for training
 and 60 percent for validation.
+
 o Computation is about equal for second and third case and
 less for first case because in first case we only use three images
 and for second, third case we use four images.
+
 o In the research paper ”One-Shot Face Recognition” he got
-an accuracy around 91 percent for the pubfig dataset .
+an accuracy around 91 percent for the pubfig dataset.
+
 o Scope for development is mentioned in the conclution
 
 For a detailed overview of methodologies, experimental setup, results, and analysis, please refer to the Project Report.
