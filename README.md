@@ -57,5 +57,7 @@ For a detailed overview of methodologies, experimental setup, results, and analy
 
 # Contributors
 Vedhamsh Bode 
-E Nikhil
+
+Elavartha Nikhil Reddy
+
 Prasanth
